@@ -1,0 +1,9 @@
+.env
+database/memory.db
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pem
+AIAssistant_Backup_*
+AIAssistant_Final_*
